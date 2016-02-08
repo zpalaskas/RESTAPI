@@ -1,0 +1,5 @@
+node_modules/
+course_stuff/
+playground/
+data/*.sqlite
+swagger-ui/
